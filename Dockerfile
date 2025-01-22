@@ -1,4 +1,4 @@
-#Link to repository: https://github.com/faiqahAzman/javascript-tetris
+#Link to repository: https://github.com/SoftwareMaintenanceEvolution/alternative-assessment-faiqahAzman 
 
 # Use a lightweight Node.js base image
 FROM node:18-alpine
